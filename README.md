@@ -16,14 +16,14 @@
 </p>
 
 
-## Overview
+## Visão geral
 
-**This is a school project, carried out for educational purposes.** 5 screens are available, divided between the administrator and the user system.
+**Este é um projeto escolar, desenvolvido para fins de aprendizagem.** 5 telas estão disponíveis, divididas entre o sistema do administrador e usuário.
 
 
-## Screenshots
+## Telas
 
-The responsive layout works fine both in desktop and mobile devices.
+O layout responsivo adequa-se bem a dispositivos móveis e desktop.
 
 <h1 align="center">
 <img
@@ -46,7 +46,7 @@ The responsive layout works fine both in desktop and mobile devices.
 </h1>
 
 
-## Contributors
+## Contribuidores
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
