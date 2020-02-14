@@ -25,7 +25,7 @@
 
 O layout responsivo adequa-se bem a dispositivos móveis e desktop.
 
-<h1 align="center">
+<p align="center">
 <img
 		width="350"
 		alt="Capture 1"
@@ -43,7 +43,7 @@ O layout responsivo adequa-se bem a dispositivos móveis e desktop.
 		alt="Capture 4"
 		src="https://github.com/RogerBambinetti/restaurant-management-system-php/blob/master/preview/Screenshot4.png">
    
-</h1>
+</p>
 
 
 ## Contribuidores
