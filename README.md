@@ -1,9 +1,9 @@
 <h1 align="center">
 <img
 		width="250"
-		alt="Logo"
 		src="https://github.com/RogerBambinetti/restaurant-management-system-php/blob/master/assets/logo1.png">
 </h1>
+
 <h3 align="center">
 	Restaurant Management System - PHP
 </h3>
@@ -11,7 +11,6 @@
 <p align="center">
 <img
 		width="700"
-		alt="Capture 4"
 		src="https://github.com/RogerBambinetti/restaurant-management-system-php/blob/master/preview/Screenshot0.png">
 </p>
 
@@ -28,21 +27,16 @@ O layout responsivo adequa-se bem a dispositivos móveis e desktop.
 <p align="center">
 <img
 		width="350"
-		alt="Capture 1"
 		src="https://github.com/RogerBambinetti/restaurant-management-system-php/blob/master/preview/Screenshot1.png">
 <img
 		width="350"
-		alt="Capture 2"
 		src="https://github.com/RogerBambinetti/restaurant-management-system-php/blob/master/preview/Screenshot2.png">
 <img
 		width="350"
-		alt="Capture 3"
 		src="https://github.com/RogerBambinetti/restaurant-management-system-php/blob/master/preview/Screenshot3.png">
 <img
 		width="350"
-		alt="Capture 4"
 		src="https://github.com/RogerBambinetti/restaurant-management-system-php/blob/master/preview/Screenshot4.png">
-   
 </p>
 
 
