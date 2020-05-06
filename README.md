@@ -1,7 +1,7 @@
 <h1 align="center">
 <img
 		width="250"
-		src="https://github.com/RogerBambinetti/restaurant-management-system-php/blob/master/assets/logo1.png">
+		src="https://github.com/RogerBambinetti/restaurant-management-system-php/blob/master/preview/logo.png">
 </h1>
 
 <h3 align="center">
