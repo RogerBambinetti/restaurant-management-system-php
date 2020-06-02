@@ -44,7 +44,7 @@ O layout responsivo adequa-se bem a dispositivos móveis e desktop.
 
 <table>
   <tr>
-<td align="center"><a href=""><img src="https://avatars0.githubusercontent.com/u/50684839?s=460&v=4" width="100px;" alt="Roger Bambinetti"/><br /><sub><b>Roger Bambinetti</b></sub></a></td>
+<td align="center"><a href="https://github.com/RogerBambinetti"><img src="https://avatars0.githubusercontent.com/u/50684839?s=460&v=4" width="100px;" alt="Roger Bambinetti"/><br /><sub><b>Roger Bambinetti</b></sub></a></td>
 <td align="center"><a href="https://github.com/GDevigili"><img src="https://avatars1.githubusercontent.com/u/32719864?s=460&u=18cc273e096eeba09a2e6fd570c7e06857c7a51f&v=4" width="100px;" alt="Gianlucca Devigili"/><br /><sub><b>Gianlucca Devigili</b></sub></a></td>
   </tr>
 </table>
